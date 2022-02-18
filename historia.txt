@@ -1,3 +1,5 @@
 Este es un texto plano.
 
 Y este es un cambio para un nuevo commit.
+
+Estoy insertando una diferencia para darme cuenta
